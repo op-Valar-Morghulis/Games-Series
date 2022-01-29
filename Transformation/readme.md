@@ -1,8 +1,8 @@
-# How to run the code
+# Usage
 
-'''
+```bash
 cd Transformation
 cmake ..
 make
 ./Transformation
-'''
+```
