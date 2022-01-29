@@ -1,6 +1,8 @@
-## Run option
+# How to run the code
 
-1. 'cd Transformation'
-2. 'cmake ..'
-3. 'make'
-4. './Transformation'
+'''
+cd Transformation
+cmake ..
+make
+./Transformation
+'''
